@@ -1,0 +1,24 @@
+{
+  "name": "@starpay/app",
+  "version": "0.0.0",
+  "description": "A peer-to-peer payment app",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedanwr/starpay.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "payments"
+  ],
+  "author": "Naveed Ali Anwar <hello@naveedalianwar.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nedanwr/starpay/issues"
+  },
+  "homepage": "https://github.com/nedanwr/starpay#readme"
+}
