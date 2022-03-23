@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/nedanwr/starpay/issues"
   },
-  "homepage": "https://github.com/nedanwr/starpay#readme"
+  "homepage": "https://github.com/nedanwr/starpay#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.11.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.7",
+    "prettier": "^2.6.0",
+    "typescript": "^4.6.2"
+  }
 }
