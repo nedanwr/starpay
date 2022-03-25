@@ -6,9 +6,9 @@
   "scripts": {
     "build": "npm run generate-schemas",
     "clean": "rm -rf node_modules",
-    "push": "npx db push",
+    "push": "npx prisma db push",
     "db-deploy": "npx prisma migrate deploy",
-    "seed": "npx db seed",
+    "seed": "npx prisma db seed",
     "deploy": "run-s build db-deploy",
     "generate-schemas": "npx prisma generate && npx prisma format",
     "postinstall": "npm run generate-schemas"
