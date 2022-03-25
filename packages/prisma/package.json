@@ -2,7 +2,7 @@
   "name": "@starpay/prisma",
   "version": "1.0.0",
   "private": true,
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "npm run generate-schemas",
     "clean": "rm -rf node_modules",
